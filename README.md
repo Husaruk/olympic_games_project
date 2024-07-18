@@ -1,12 +1,16 @@
 <h2>Olympic Games Analysis</h2>
+
 **By this analysis I want to present facts and information that are not as easily found on the internet about Olympic Games.**
-My main targets for analysis were information about Olympic games in general and information about athletes that participate in Olympic games. Let’s start with The Olympic Games in general.
+
+**My main targets for analysis were information about Olympic games in general and information about athletes that participate in Olympic games.**
 
 <h2>Part 1. Analysis of The Olympic Games</h2>
 <h3>Questions I want to answer</h3>
-* Are there any sports considered irrelevant?
-* How the number of events changed over the years?
-* What are the differences between the Summer and Winter seasons?
+<ul>
+  <li>Are there any sports considered irrelevant?</li>
+  <li>How the number of events changed over the years?</li>
+  <li>What are the differences between the Summer and Winter seasons?</li>
+</ul>
 
 **Are there any sports considered irrelevant?**
 ![image](https://github.com/user-attachments/assets/06a4426c-9737-4c26-a96c-761b4c8b6262)
@@ -15,9 +19,11 @@ As you can see, certain sports became irrelevant since 1940. In this list, we ha
 
 **How the number of events changed over the years?**
 ![image](https://github.com/user-attachments/assets/8760df0e-3152-4c18-b82f-5901c630954e)
+
 From this visualization, we can observe that only 10% of all Summer sports (Athletics, Cycling, Gymnastics, and Swimming) have been played since the start of the Olympic Games
 
 ![image](https://github.com/user-attachments/assets/d8aa4dec-01ee-4328-83cf-910f79f33e8b)
+
 The visualization of sport presence in Winter shows that 40% of all Winter sports have been played since start of Winter Olympic games.
 
 **What are the differences between the Summer and Winter seasons?**
