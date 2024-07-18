@@ -125,7 +125,7 @@ This visualization, in contrast, features events that are less popular among you
 **What differences can be observed between these two categories of athletes?**
 **Young group of athletes**
 
-**#1 **
+**#1**
 
 Young-mid aged people are more inclined to participate in popular sports, possibly due to affordability and accessibility, allowing anyone to engage in professional-level competition.
 
