@@ -5,7 +5,7 @@
 **My main targets for analysis were information about Olympic games in general and information about athletes that participate in Olympic games.**
 
 <h2>Part 1. Analysis of The Olympic Games</h2>
-<h3>Questions I want to answer</h3>
+<h3>Questions I want to answer:</h3>
 <ul>
   <li>Are there any sports considered irrelevant?</li>
   <li>How the number of events changed over the years?</li>
@@ -32,7 +32,7 @@ The visualization of sport presence in Winter shows that 40% of all Winter sport
 Summer and Winter Olympic Games started at different times; the Winter Games appeared in 1924, while the Summer Games began in 1896. Until this moment, the number of events for these seasons differs by three times.
 
 <h2>Part 2. Analysis of Athletes</h2>
-<h3>Questions I want to answer</h3>
+<h3>Questions I want to answer:</h3>
 
 <ul>
   <li>What is the distribution of athletes across different age groups?</li>
@@ -63,27 +63,27 @@ Notably, weights 70 kg and 75 kg have more athletes than their neighboring weigh
   <li>Create a bar plot illustrating weights over the years.</li>
 </ol>
 
-**Number of rows with weights 70 and 71**
+**Number of rows with weights 70 and 71:**
 ![image](https://github.com/user-attachments/assets/200e0b5d-0a3b-4666-bdb4-04f0de88d43b)
 
-**Examine martial arts events**
+**Examine martial arts events:**
 ![image](https://github.com/user-attachments/assets/a3c4eb02-cdc6-4c32-9c06-affebc19b6ce)
 
 I know that athletes in martial arts sometimes aim for the highest weight in their category to enhance their chances of winning.
 
 However, as we can see, the difference is very small. Therefore, this hypothesis was incorrect.
 
-**Round numbers for better analysis**
+**Round numbers for better analysis:**
 
 As humans, we often seek more understandable and straightforward goals. In the realm of professional sports, maintaining a physique conducive to better chances of winning is crucial. Setting a target weight of 70 kg or 75 kg before a tournament sounds like a practical goal.
 However, consider the less common weights like 73 kg, 72 kg, and 71 kg – these might not be as popular targets due to their complexity. Creating tasks that are simple to understand is the initial step in the journey of achieving them.
 
-**Investigate the top 10 sports for each weight category**
+**Investigate the top 10 sports for each weight category:**
 ![image](https://github.com/user-attachments/assets/587da156-0c9f-475f-852f-0d506d95dd5f)
 
 ![image](https://github.com/user-attachments/assets/f2fc0dff-0008-4de2-b809-6c9c92cb20c1)
 
-**Create a bar plot illustrating weights over the years**
+**Create a bar plot illustrating weights over the years:**
 ![image](https://github.com/user-attachments/assets/74e75214-e0f1-4711-9b07-a8ed26bc002f)
 
 Upon analyzing across different years, it becomes apparent that the presence of athletes with a weight of 70 kg consistently surpasses those with 71 kg. This pattern persists regardless of the chosen year.
@@ -108,7 +108,7 @@ On the visualization we saw copy of visualization ‘Number of Athletes by Age�
 The best results are observed in athletes aged 21-27, aligning with the expectation that the age when you have the best physical condition is optimal for participating in professional competitions and winning gold medals.
 
 
-**Top 10 ages by win rate**
+**Top 10 ages by win rate:**
 ![image](https://github.com/user-attachments/assets/1b417ea1-483f-47ba-9685-eeb9f05af479)
 ![image](https://github.com/user-attachments/assets/22969e9c-cf72-4553-aacd-47abebaf4b76)
 
@@ -125,21 +125,13 @@ This visualization, in contrast, features events that are less popular among you
 **What differences can be observed between these two categories of athletes?**
 **Young group of athletes**
 
-**#1**
-
 Young-mid aged people are more inclined to participate in popular sports, possibly due to affordability and accessibility, allowing anyone to engage in professional-level competition.
-
-**#2**
 
 Individuals in this age range typically possess optimal physical fitness, enabling them to participate in events that demand high stamina and strength.
 
 **Older group of athletes**
 
-**#1**
-
 Athletes aged 40+ often have greater financial resources, allowing them to afford sports that may not be as accessible to younger individuals but are more affordable for the older demographic.
-
-**#2**
 
 The events listed in the last visualization appear to require less physical ability and more knowledge, making them suitable for individuals with more experience and expertise, older age group.
 
