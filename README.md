@@ -33,13 +33,16 @@ Summer and Winter Olympic Games started at different times; the Winter Games app
 
 <h2>Part 2. Analysis of Athletes</h2>
 <h3>Questions I want to answer</h3>
-* What is the distribution of athletes across different age groups?
-* What is the distribution of athletes by weight?
-* How are wins distributed among different age groups?
-* Top 10 ages by win rate
-* Which events show the highest number of wins among athletes aged 26-31?
-* Which events have the highest number of wins among athletes aged 40+?
-* What differences can be observed between these two categories of athletes?
+
+<ul>
+  <li>What is the distribution of athletes across different age groups?</li>
+  <li>What is the distribution of athletes by weight?</li>
+  <li>How are wins distributed among different age groups?</li>
+  <li>Top 10 ages by win rate</li>
+  <li>Which events show the highest number of wins among athletes aged 26-31?</li>
+  <li>Which events have the highest number of wins among athletes aged 40+?</li>
+  <li>What differences can be observed between these two categories of athletes?</li>
+</ul>
 
 **What is the distribution of athletes across different age groups?**
 ![image](https://github.com/user-attachments/assets/d5381eb4-69ae-4787-abe4-52cfbdc1cf83)
@@ -48,8 +51,10 @@ The most common age for athletes are 21-27.
 
 **What is the distribution of athletes by weight?**
 ![image](https://github.com/user-attachments/assets/cb2688f1-e185-473f-8229-526e82919133)
+
 Notably, weights 70 kg and 75 kg have more athletes than their neighboring weights. It's worth mentioning that 71 kg has three times fewer athletes compared to 70 kg. I wanted to find out what caused such a distribution. For that I had some steps that I wanted to take and hypothesis to check.
-Here is a list of steps:
+
+**Here is a list of steps:**
 <ol>
   <li>Check the number of rows with weights 70 and 71.</li>
   <li>Examine martial arts events.</li>
@@ -63,10 +68,13 @@ Here is a list of steps:
 
 **Examine martial arts events**
 ![image](https://github.com/user-attachments/assets/a3c4eb02-cdc6-4c32-9c06-affebc19b6ce)
+
 I know that athletes in martial arts sometimes aim for the highest weight in their category to enhance their chances of winning.
+
 However, as we can see, the difference is very small. Therefore, this hypothesis was incorrect.
 
 **Round numbers for better analysis**
+
 As humans, we often seek more understandable and straightforward goals. In the realm of professional sports, maintaining a physique conducive to better chances of winning is crucial. Setting a target weight of 70 kg or 75 kg before a tournament sounds like a practical goal.
 However, consider the less common weights like 73 kg, 72 kg, and 71 kg – these might not be as popular targets due to their complexity. Creating tasks that are simple to understand is the initial step in the journey of achieving them.
 
@@ -81,7 +89,9 @@ However, consider the less common weights like 73 kg, 72 kg, and 71 kg – these
 Upon analyzing across different years, it becomes apparent that the presence of athletes with a weight of 70 kg consistently surpasses those with 71 kg. This pattern persists regardless of the chosen year.
 
 <h3>Conclusion:</h3>
+
 ![image](https://github.com/user-attachments/assets/06b99b3b-7faa-43df-9b69-ec4cb86d8af6)
+
 Athletes often train with coaches, and for precise dietary calculations, they tend to use round numbers. The simplicity of round weights facilitates easier adjustments to diet and training, potentially explaining the significant difference in weights observed.
 
 ![image](https://github.com/user-attachments/assets/4e543508-269c-4085-841b-0df122610839)
@@ -114,46 +124,60 @@ This visualization, in contrast, features events that are less popular among you
 
 **What differences can be observed between these two categories of athletes?**
 **Young group of athletes**
-#1 
+**#1 **
+
 Young-mid aged people are more inclined to participate in popular sports, possibly due to affordability and accessibility, allowing anyone to engage in professional-level competition.
-#2
+
+**#2**
 Individuals in this age range typically possess optimal physical fitness, enabling them to participate in events that demand high stamina and strength.
 
 **Older group of athletes**
-#1
+**#1**
+
 Athletes aged 40+ often have greater financial resources, allowing them to afford sports that may not be as accessible to younger individuals but are more affordable for the older demographic.
-#2
+**#2**
+
 The events listed in the last visualization appear to require less physical ability and more knowledge, making them suitable for individuals with more experience and expertise, older age group.
 
 <h2>Summary</h2>
 <h3>Years and Seasons</h3>
 
 **Are there any sports considered irrelevant?**
+
 Yes, there were some irrelevant sports (15 out of 66).
 
 **How the number of events changed over the years?**
+
 Over time, events were progressively added to the list. In the Summer season, the number changed from approximately 50 to 300 events, while in the Winter season, it evolved from around 20 to 100 events.
 
 **What are the differences between the Summer and Winter seasons?**
+
 The primary distinction is that Winter Olympic Games started 28 years later than Summer Olympic Games.
 
 <h3>Athlete Statistics</h3>
 
 **What is the distribution of athletes across different age groups?**
+
 The most common age for athletes is 21-27.
 
 **What is the distribution of athletes by weight?**
+
 From 45 kg to 70 kg, athletes have the highest number of medals. Round numbers serve as peaks, leading to several conclusions:
-Athletes often train with trainers and use round numbers.
-People prefer simple numbers or use them as goals.
-Certain weights might be more favorable for winning.
+
+<ul>
+  <li>Athletes often train with trainers and use round numbers.</li>
+  <li>People prefer simple numbers or use them as goals.</li>
+  <li>Certain weights might be more favorable for winning.</li>
+</ul>
 
 **How are wins distributed among different age groups?**
+
 On the visualization we saw copy of visualization ‘Number of Athletes by Age’, which leads us to the obvious conclusion the more athletes with the same age - the more wins this age will have.
 The best results are observed in athletes aged 21-27, aligning with the expectation that the age when you have the best physical condition is optimal for participating in professional competitions and winning gold medals.
 
 
 **Is the distribution of wins aligned with the win rate for each age?**
+
 Based on my analysis, the distribution of wins does not align perfectly with the win rate for each age. The win rate for each age group varies, and the age with the most wins doesn't necessarily coincide with the age having the highest win rate. This suggests that factors beyond the sheer number of wins contribute to the overall effectiveness or success rate within each age category.
 
 **Which events show the highest number of wins among athletes aged 26-31?**
