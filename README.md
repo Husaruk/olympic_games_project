@@ -124,17 +124,21 @@ This visualization, in contrast, features events that are less popular among you
 
 **What differences can be observed between these two categories of athletes?**
 **Young group of athletes**
+
 **#1 **
 
 Young-mid aged people are more inclined to participate in popular sports, possibly due to affordability and accessibility, allowing anyone to engage in professional-level competition.
 
 **#2**
+
 Individuals in this age range typically possess optimal physical fitness, enabling them to participate in events that demand high stamina and strength.
 
 **Older group of athletes**
+
 **#1**
 
 Athletes aged 40+ often have greater financial resources, allowing them to afford sports that may not be as accessible to younger individuals but are more affordable for the older demographic.
+
 **#2**
 
 The events listed in the last visualization appear to require less physical ability and more knowledge, making them suitable for individuals with more experience and expertise, older age group.
